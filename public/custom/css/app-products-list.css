@@ -1,0 +1,20 @@
+body {
+    margin: 0;
+    padding: 0;
+}
+
+.datatable-card {
+    width: 100%;
+}
+
+.search-input {
+    width: 100%;
+}
+
+.product_checkbox {
+    margin-top: 13px;
+}
+
+.is_active_label {
+    line-height: 38px;
+}
